@@ -7,6 +7,7 @@
 ###
 
 <h3 align="left">Development stack of my</h3>
+
 ###
 
 <div align="left">
@@ -20,6 +21,7 @@
 ###
 
 <h3 align="left">Other tools</h3>
+
 ###
 
 <div align="left">
